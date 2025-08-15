@@ -1,0 +1,9 @@
+from math import *
+def maths():
+    a = int(input("enter a number: "))
+    print(f"Square root: {sqrt(a)}")
+    print(f"Logarithm{log(a,10)}")
+    print(f"Sine: {sin(a)}")
+
+
+maths()
